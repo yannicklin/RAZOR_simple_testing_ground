@@ -1,0 +1,13 @@
+/*!
+ * Custom CSS
+ * Yannick Lin
+ * 13 May 2014
+ */
+ul.navbar-nav {font-weight: bold; font-size: 1.4em;}
+ul.navbar-nav ul.dropdown-menu, ul.navbar-nav ul.dropdown-menu > li > a {font-size: 0.9em; font-weight: bold;}
+ul.nav-tabs li {-moz-border-radius: 2px; border-radius: 2px;}
+ul.nav-tabs li a {border: 1px solid #fff; -moz-border-radius: 10px; border-radius: 10px;}
+ul.nav-tabs li.active a {border: 1px solid #2B3E50;}
+.tab-pane {padding: 5px;}
+.tab-pane blockquote {font-size: 1.2em; font-weight: bold; font-style: italic;}
+.tab-pane a.btn {margin: 5px;}
